@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code base for learning JavaScript through the development of Red-Amber-Green (RAG) web applications using the LlamaIndex framework. The aim of this project is to provide a hands-on learning experience for mastering JavaScript fundamentals while building practical web applications.
+This repository contains the code base for learning JavaScript through the development of Retrieval Augmented Generation (RAG) web applications using the LlamaIndex framework. The aim of this project is to provide a hands-on learning experience for mastering JavaScript fundamentals while building practical web applications.
 
 ## Getting Started
 
